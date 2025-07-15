@@ -79,6 +79,7 @@ Each generated persona will be saved as a .txt file like:
   ├── kojied_persona.txt
   └── Hungry-Move-6603_persona.txt
 ```
+---
 
 ### The script will:
 -Extract the username
@@ -87,9 +88,11 @@ Each generated persona will be saved as a .txt file like:
 -Create a persona based on a professional format
 -Save it in a .txt file inside the output/ folder
 
+---
 ### Technologies Used
 -Python
 -RAW (Python Reddit API Wrapper)
 -Google Generative AI Python SDK
 -dotenv (.env file loading)
+---
 

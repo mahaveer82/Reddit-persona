@@ -32,16 +32,16 @@ It was created as part of the assignment for the **AI/LLM Engineer Internship at
     ├── README.md 
   ```
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 Follow the steps below to get the script running on your local machine:
 
 ---
 
-### ✅ 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
-  git clone https://github.com/your-username/reddit-persona-bot.git
+  git clone https://github.com/mahaveer82/Reddit-persona
   cd reddit-persona-bot
 ```
 
@@ -82,16 +82,15 @@ Each generated persona will be saved as a .txt file like:
 ```
 
 ### The script will:
-
- -Extract the username
- -Fetch their recent posts and comments
- -Analyze the data using Gemini
- -Create a persona based on a professional format
- -Save it in a .txt file inside the output/ folder
+-Extract the username
+-Fetch their recent posts and comments
+-Analyze the data using Gemini
+-Create a persona based on a professional format
+-Save it in a .txt file inside the output/ folder
 
 ### Technologies Used
- -Python
- -RAW (Python Reddit API Wrapper)
- -Google Generative AI Python SDK
- -dotenv (.env file loading)
+-Python
+-RAW (Python Reddit API Wrapper)
+-Google Generative AI Python SDK
+-dotenv (.env file loading)
 

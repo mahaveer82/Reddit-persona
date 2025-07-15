@@ -11,7 +11,6 @@ It was created as part of the assignment for the **AI/LLM Engineer Internship at
 - Scrapes public Reddit posts & comments
 - Uses Gemini (Google's LLM) to generate structured, insightful user personas
 - Cites original Reddit posts/comments for each trait
-- Clean modular codebase
 - Outputs results into a human-readable `.txt` file per user
 
 ---

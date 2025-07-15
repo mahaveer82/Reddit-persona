@@ -41,7 +41,7 @@ Follow the steps below to get the script running on your local machine:
 
 ```bash
   git clone https://github.com/mahaveer82/Reddit-persona
-  cd reddit-persona-bot
+  cd Reddit-persona
 ```
 
 ### 2. Install Required Libraries

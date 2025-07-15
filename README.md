@@ -81,7 +81,7 @@ Each generated persona will be saved as a .txt file like:
 ```
 ---
 
-### The script will:
+## The script will:
 -Extract the username
 -Fetch their recent posts and comments
 -Analyze the data using Gemini
@@ -89,7 +89,7 @@ Each generated persona will be saved as a .txt file like:
 -Save it in a .txt file inside the output/ folder
 
 ---
-### Technologies Used
+## Technologies Used
 -Python
 -RAW (Python Reddit API Wrapper)
 -Google Generative AI Python SDK
